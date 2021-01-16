@@ -1,0 +1,44 @@
+Application-Name: Microsoft Office PowerPoint
+Application-Version: 16.0000
+Author: ydchiang
+Content-Length: 2265624
+Content-Type: application/vnd.openxmlformats-officedocument.presentationml.presentation
+Creation-Date: 2020-06-12T15:00:46Z
+Last-Author: 怡典 江
+Last-Modified: 2020-06-14T12:39:24Z
+Last-Save-Date: 2020-06-14T12:39:24Z
+Paragraph-Count: 332
+Presentation-Format: 如螢幕大小 (4:3)
+Revision-Number: 482
+Slide-Count: 40
+Template: Office Theme
+Total-Time: 840
+Word-Count: 2686
+X-Parsed-By: org.apache.tika.parser.DefaultParser
+X-Parsed-By: org.apache.tika.parser.microsoft.ooxml.OOXMLParser
+X-TIKA:digest:MD5: 8633e7f4264f0bff52576a8817c8abbb
+X-TIKA:digest:SHA256: 92e63d7d6e8de971b8facefb7b9301f5c114d4840d196a988d262d9c7cab5775
+cp:revision: 482
+creator: ydchiang
+date: 2020-06-14T12:39:24Z
+dc:creator: ydchiang
+dc:title: 電學概論
+dcterms:created: 2020-06-12T15:00:46Z
+dcterms:modified: 2020-06-14T12:39:24Z
+extended-properties:AppVersion: 16.0000
+extended-properties:Application: Microsoft Office PowerPoint
+extended-properties:DocSecurityString: None
+extended-properties:PresentationFormat: 如螢幕大小 (4:3)
+extended-properties:Template: Office Theme
+extended-properties:TotalTime: 840
+meta:author: ydchiang
+meta:creation-date: 2020-06-12T15:00:46Z
+meta:last-author: 怡典 江
+meta:paragraph-count: 332
+meta:save-date: 2020-06-14T12:39:24Z
+meta:slide-count: 40
+meta:word-count: 2686
+modified: 2020-06-14T12:39:24Z
+resourceName: 電阻.pptx
+title: 電學概論
+xmpTPg:NPages: 40

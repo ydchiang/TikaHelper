@@ -1,0 +1,46 @@
+Content-Length: 583015
+Content-Type: application/pdf
+Creation-Date: 2020-09-26T03:00:47Z
+Last-Modified: 2020-09-26T03:00:47Z
+Last-Save-Date: 2020-09-26T03:00:47Z
+X-Parsed-By: org.apache.tika.parser.DefaultParser
+X-Parsed-By: org.apache.tika.parser.pdf.PDFParser
+X-TIKA:digest:MD5: fd00ebd431d5b70dbd0fc702bbfc9fff
+X-TIKA:digest:SHA256: 9a31ccc983717c91a57ba83a0f836c872d2a4f3684f8bfce77a5d229c2f9ddd6
+access_permission:assemble_document: true
+access_permission:can_modify: true
+access_permission:can_print: true
+access_permission:can_print_degraded: true
+access_permission:extract_content: true
+access_permission:extract_for_accessibility: true
+access_permission:fill_in_form: true
+access_permission:modify_annotations: true
+created: 2020-09-26T03:00:47Z
+date: 2020-09-26T03:00:47Z
+dc:format: application/pdf; version=1.4
+dcterms:created: 2020-09-26T03:00:47Z
+dcterms:modified: 2020-09-26T03:00:47Z
+meta:creation-date: 2020-09-26T03:00:47Z
+meta:save-date: 2020-09-26T03:00:47Z
+modified: 2020-09-26T03:00:47Z
+pdf:PDFVersion: 1.4
+pdf:charsPerPage: 904
+pdf:charsPerPage: 628
+pdf:charsPerPage: 1138
+pdf:charsPerPage: 284
+pdf:docinfo:created: 2020-09-26T03:00:47Z
+pdf:docinfo:creator_tool: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+pdf:docinfo:modified: 2020-09-26T03:00:47Z
+pdf:docinfo:producer: Skia/PDF m85
+pdf:encrypted: false
+pdf:hasMarkedContent: false
+pdf:hasXFA: false
+pdf:hasXMP: false
+pdf:unmappedUnicodeCharsPerPage: 0
+pdf:unmappedUnicodeCharsPerPage: 0
+pdf:unmappedUnicodeCharsPerPage: 0
+pdf:unmappedUnicodeCharsPerPage: 0
+producer: Skia/PDF m85
+resourceName: 東海大學.pdf
+xmp:CreatorTool: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+xmpTPg:NPages: 4
