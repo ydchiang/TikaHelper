@@ -34,7 +34,7 @@ namespace MXIC.EPR.TikaHelper
             sw.Start();
 
             // Parsing Document Metadata
-            ProcessStartInfo psi = new ProcessStartInfo("java", "-jar " + TikaJarFile + " -j " + fileName);
+            ProcessStartInfo psi = new ProcessStartInfo("java", "-jar " + TikaJarFile + " -j \"" + fileName + "\"");
             psi.RedirectStandardError = true;
             psi.RedirectStandardOutput = true;
             psi.UseShellExecute = false;
@@ -56,7 +56,11 @@ namespace MXIC.EPR.TikaHelper
             using (Process p = Process.Start(psi))
             {
                 string output = p.StandardOutput.ReadToEnd();
-                documentInfo.Content = output;
+
+                if (!string.IsNullOrWhiteSpace(output))
+                {
+                    documentInfo.Content = output;
+                }
             }
 
             sw.Stop();

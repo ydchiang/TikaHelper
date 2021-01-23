@@ -1,0 +1,9 @@
+C:\Elasticsearch\Tika\TikaHelper\TikaHelper\obj\Debug\MXIC.EPR.TikaHelper.csprojAssemblyReference.cache
+C:\Elasticsearch\Tika\TikaHelper\TikaHelper\obj\Debug\MXIC.EPR.TikaHelper.csproj.CoreCompileInputs.cache
+C:\Elasticsearch\Tika\TikaHelper\TikaHelper\bin\Debug\MXIC.EPR.TikaHelper.dll
+C:\Elasticsearch\Tika\TikaHelper\TikaHelper\bin\Debug\MXIC.EPR.TikaHelper.pdb
+C:\Elasticsearch\Tika\TikaHelper\TikaHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Elasticsearch\Tika\TikaHelper\TikaHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Elasticsearch\Tika\TikaHelper\TikaHelper\obj\Debug\MXIC.EPR.TikaHelper.csproj.CopyComplete
+C:\Elasticsearch\Tika\TikaHelper\TikaHelper\obj\Debug\MXIC.EPR.TikaHelper.dll
+C:\Elasticsearch\Tika\TikaHelper\TikaHelper\obj\Debug\MXIC.EPR.TikaHelper.pdb
